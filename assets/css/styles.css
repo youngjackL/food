@@ -1,0 +1,23 @@
+table{
+    width:100%;
+    font-family: "Bell MT";
+    border-collapse: collapse;
+
+
+}
+td,th{
+      border:2px solid black ;
+      padding: 15px ;
+      color: #ff040c;
+
+}
+h2{
+    color:yellowgreen;
+}
+
+body{
+
+    background-image: url("../images/vine.jpeg");
+
+}
+

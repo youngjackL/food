@@ -1,0 +1,40 @@
+.fruits{
+    border:solid 3px yellowgreen;
+    background-image:url("../images/vine.jpeg") ;
+    text-align: center;
+    margin: 20px;
+   padding:20px;
+    font-family: Calibri;
+}
+ .Cars{
+     border: solid 5px #05d3ad;
+     background-color: cornflowerblue;
+     text-align: center;
+     font-family: Bahnschrift;
+     margin: 20px;
+
+ }
+.FRUITS{
+    border:solid 3px crimson;
+    background-color: grey;
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+
+}
+#computers{
+    border:solid 10px black;
+    background-color: crimson;
+    text-align: left;
+    margin: 25px;
+    padding: 15px;
+    font-family: "Century Gothic";
+}
+#oats{
+    background-color: orange;
+    border: burlywood;
+    text-align: left;
+    margin: 20px;
+    padding: 25px;
+    font-family: "Franklin Gothic ";
+}
